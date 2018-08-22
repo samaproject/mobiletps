@@ -38,7 +38,7 @@ body {
     float: right;
     width: 74%;
     margin-right: 2%;
-    height: 420px;
+    min-height: 420px;
 }
 
 #footer {
