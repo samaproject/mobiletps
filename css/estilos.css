@@ -30,12 +30,13 @@ body {
     width: 20%;
     float: left;
     margin-right: 2%;
+    margin-left: 2%;;
     height: 420px;
 }
 
 #body {
     float: right;
-    width: 76%;
+    width: 74%;
     margin-right: 2%;
     height: 420px;
 }
@@ -69,7 +70,7 @@ a li:hover {
 
 #body .box {
     border: 2px solid gray;
-    padding-top:2   %;
+    padding-top:2%;
     padding-bottom: 2%;
     margin: 0.5%;
     margin-top: 2%;
